@@ -21,7 +21,7 @@ This project focuses on customer segmentation using Machine Learning techniques.
 ![Elbow Method](image.png)
 
 ## 3-D Plot
-![3-D Plot](3D)
+![3-D Plot](3DPLOT2.PNG)
 
 ## 🛠️ Tools & Technologies
 - Python
