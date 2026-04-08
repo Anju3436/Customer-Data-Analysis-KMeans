@@ -3,6 +3,12 @@ Customer segmentation project using K-Means clustering to analyze customer behav
 
 # Customer Segmentation Using K-Means Clustering
 
+
+
+## 🌐 Live Project
+[Click here to view project](https://anju3436.github.io/Customer-Data-Analysis-KMeans/)
+
+
 ## 📌 Project Overview
 This project focuses on customer segmentation using Machine Learning techniques. The goal is to group customers based on their behavior such as income, age, and spending habits.
 
